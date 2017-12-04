@@ -1,0 +1,3 @@
+[submodule "othergitrepo"]
+	path = othergitrepo
+	url = git@github.com:embs/othergitrepo.git
